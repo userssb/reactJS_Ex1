@@ -1,0 +1,23 @@
+.bgcont {
+  background-color: black;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image {
+  height: 200px;
+  width: 200px;
+}
+.img-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-items: center; */
+  justify-content: center;
+}
+.heading {
+  color: white;
+  font-family: roboto;
+}
